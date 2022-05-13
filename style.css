@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  font-family: verdana, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: gray
+}
+
+a:hover {
+  color: purple;
+  text-decoration: underline;
+}
